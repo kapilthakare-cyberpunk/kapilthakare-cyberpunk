@@ -93,7 +93,7 @@ I welcome contributions to my open-source projects!
 ## 🏢 Professional Experience
 
 ### Primes & Zooms
-**Manager - FO and Social Media**  
+**Manager - Sales and Marketing**  
 *January 2017 - Present (8 years 5 months)*
 
 ### Knowledge Planet UAE
