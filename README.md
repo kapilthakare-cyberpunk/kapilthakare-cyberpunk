@@ -1,69 +1,91 @@
-# 👋 Hi, I'm Kapil Satish Thakare (@kapilthakare-cyberpunk)
+# 👋 Hey, I’m Kapil Satish Thakare (@kapilthakare-cyberpunk)
 
-### Sales and Marketing Head at Primes & Zooms | Linux Automation & Open-Source Enthusiast | Photography Gear Aficionado
+### 🚀 Sales & Marketing Head @ Primes & Zooms | Terminal Power User | Linux Automation Buff | Open-Source Geek | Agentic AI Fan | Photography Gear Junkie
 
-It's great to connect! By profession, I lead Sales and Marketing at Primes & Zooms. Outside of my professional role, I'm a passionate Linux Automation Engineer and an active open-source contributor, driven by a deep enthusiasm for technology. When I'm not strategizing for business or diving into code, you might find me exploring the world of photography gear.
-
----
-
-## 🚀 About Me
-
-- **Profession:** Sales and Marketing Head at Primes & Zooms.
-- **Passion for Tech:** Linux Automation Engineer, dedicated to streamlining workflows and enhancing system efficiency through personal projects.
-- **Expertise:** Specializing in Python and Bash scripting for system automation, data processing, and environment setup.
-- **Open Source:** A proud open-source contributor, always looking for ways to give back and collaborate.
-- **Interests:** Beyond code and business, I'm an avid photography gear enthusiast.
+Welcome to my digital lair! By day, I command sales and marketing at Primes & Zooms, but after hours, I transform into a code ninja obsessed with automation, open-source, and all things tech (with a dash of photography gear madness). I live in the terminal, have a legendary `.bashrc`, and love bending my shell to my will.
 
 ---
 
-## 🔧 Technical Skills
+## 🧑‍💻 About Me
 
-### Daily Tools
-- **Languages:** Python, Bash, JavaScript
-- **Databases:** Firebase
-- **Operating Systems:** Linux Mint, Android (Debugging)
-
-### Daily Development Setup
-- **OS:** Linux Mint 22.1 (Customized with Cinnamon extensions)
-- **Editor:** VS Code + Kite AI (Themes: One Dark Pro)
-- **Terminal:** Tilix with Zsh/Powerlevel10k
-- **Automation:** AutoKey (GUI automation), Cron
-- **Must-Have Utilities:** `rsync` (for backups), `adb` (for Android debugging), `jq` (for JSON processing)
-
-### Most Used Languages
-- **Python:** Primarily for system automation (e.g., `kapilthakare-cyberpunk` repository).
-- **JavaScript:** For web-based applications and shift management (e.g., `time-tracker` repository).
-- **Bash:** For custom Linux configurations and scripting (e.g., `ultimate-bashrc` repository).
+- **Profession:** Head of Sales & Marketing @ Primes & Zooms.
+- **Tech Side-Quest:** Linux Automation Engineer, Open-Source Contributor, and shell customizer.
+- **Main Tools:** Python (automation wizardry), Bash (shell magic), JavaScript, HTML (building apps), and Firebase.
+- **Editor of Choice:** VS Code (intermediate level, proud extension hoarder).
+- **Agentic AI Aficionado:** Building and experimenting with agentic AI stacks (Ollama, tgpt, local/cloud LLMs right in the terminal).
+- **Fun Fact:** If I’m not scripting, I’m probably nerding out on new camera gear or boosting my terminal with new aliases.
 
 ---
 
-## 🛠️ Featured Projects
+## ⚡ My Favorite Tech Stack
 
-### ⚙️ Automation Tools
-- **`groq_cli.py`**: A lightning-fast Command Line Interface (CLI) for interacting with Groq's LPU models, featuring streaming support.
-- **AutoEnv Setup Suite**: A collection of Bash scripts designed to auto-configure development environments with intuitive GUI progress tracking.
-    - **Features:** Distro detection, intelligent dependency resolution, and one-click setup for various dev stacks.
-- **Bitwarden File Cleaner**: A utility to sanitize Bitwarden password exports, ensuring safe sharing and backup.
-    - **Handles:** Seamless CSV to JSON conversion and robust field normalization.
+> **Agentic AI + Python + Bash + Linux + VS Code**  
+> (plus HTML, JavaScript, Firebase, and a supercharged terminal)
+
+---
+
+## 💻 Technical Skills & Tools
+
+### Languages & Frameworks
+- **Python:** Automation, scripting, CLI tools, and backend.
+- **Bash:** Custom Linux configs, advanced scripting, and workflow automation.
+- **JavaScript:** Web apps and shift management.
+- **HTML:** Building simple apps & frontends.
+- **Firebase:** Data wrangling for web projects.
+
+### Daily Dev Setup
+- **OS:** Linux Mint 22.1 (Cinnamon, ultra-customized)
+- **Editor:** VS Code (One Dark Pro theme, tons of extensions — still learning, ~intermediate)
+- **Terminal:** Tilix + Zsh/Powerlevel10k, with a `.bashrc` that's a living document
+- **Automation:** AutoKey, Cron, custom shell scripts
+- **Fav Utilities:** `rsync`, `adb`, `jq`, `fzf`, `copyq`, `tgpt`, `ollama`
+
+---
+
+## 🪄 Bash & Terminal Magic
+
+- My `.bashrc` is a playground for automation, AI, and productivity — check out some of its tricks:
+  - **Context-aware $PATH**: Adds only what’s needed, keeps it clean (deduped).
+  - **Editor auto-detection**: Always opens with your favorite editor.
+  - **Ollama, tgpt, and AI shell functions**: Chat, code-review, grammar-correct, or explain any command—right in your terminal!
+  - **System info, fuzzy directory jumps, safe aliases, and more.**
+  - **Powerline prompts** for style, with a fallback for any terminal.
+  - **Fun custom welcome message** every time I open a shell:
+    ```
+    ═══════════════════════════════════════════════════
+     👋  Welcome back, Kapil!  ─ Saturday, June 21, 2025 – 05:34 PM
+     🚀  Shell loaded with 1 file(s), 42 aliases.
+     🧠  Think. Code. Iterate. Automate. Dominate.
+    ═══════════════════════════════════════════════════
+    ```
+
+- **Shell Superpowers:**  
+  - `ollama-chat`, `ollama-quick-ask`, `ollama-code-review`, `fcd` (fuzzy cd), `extract` (unzip anything!), `sysinfo`, and more.
+  - **AI Clipboard:** Instantly grammar/spell-check your clipboard with local or cloud LLMs.
+  - **Workspace Aliases:** One command to jump into any project or workspace.
+
+---
+
+## 🔥 Featured Projects
+
+### ⚙️ Automation & AI Tools
+- **`groq_cli.py`:** Super-fast CLI for Groq’s LPU models with streaming.
+- **AutoEnv Setup Suite:** Bash scripts for auto-config dev environments (distro detection, one-click setup, GUI progress).
+- **Bitwarden File Cleaner:** Sanitizes Bitwarden exports (CSV to JSON, field normalization).
 
 ### 📱 Android/Linux Utilities
-- **Phone Backup Script (WIP):** A work-in-progress script to automate phone backups to a Network Attached Storage (NAS) via USB or syncs to Google Drive.
-    - **Features:** Exif metadata preservation and an optional Google Drive sync for cloud redundancy.
-- **Time-Tracker:** A robust, Firebase-powered shift management system built with JavaScript and Node.js, designed for efficient time tracking.
+- **Phone Backup Script (WIP):** Automates phone backups to NAS/Google Drive, preserves Exif.
+- **Time-Tracker:** Firebase-powered shift management in JavaScript/Node.js.
 
 ---
 
-## 🤝 Contribution Guidelines
+## 🤝 How to Contribute
 
-I welcome contributions to my open-source projects!
-
-- **First Timers Welcome!** Look for issues tagged `good-first-issue`.
-- **Code Standards:**
-    - Python: Adherence to PEP 8.
-    - Bash: Validated with ShellCheck.
-- **Workflow:** Fork the repository → Create a feature branch → Submit a Pull Request (PR) → Participate in code review.
-- **Documentation:** Always update `README.md` when adding new features. Use clear docstrings for complex functions.
-- **Testing:** Include `pytest` cases for Python projects. Test scripts thoroughly on Linux Mint before submitting a PR.
+- **First-timers welcome!** Look for `good-first-issue`.
+- **Coding Standards:** Python (PEP 8), Bash (ShellCheck).
+- **Workflow:** Fork → Branch → PR → Code Review.
+- **Docs:** Update `README.md` and add docstrings.
+- **Testing:** Use `pytest` for Python, test scripts on Linux Mint.
 
 ---
 
@@ -74,62 +96,60 @@ I welcome contributions to my open-source projects!
 
 ---
 
-## 💡 Currently Exploring
+## 🧪 Currently Hacking On
 
-- Advanced Android backup automation using `adb` and `rsync`.
-- Building powerful Command Line Interface (CLI) tools with Python and the `Fire` library.
-- Optimizing and refining Linux Mint workflows for maximum productivity.
+- Advanced Android backup automation (`adb` + `rsync`)
+- Next-gen CLI tools with Python + Fire
+- Pushing Linux Mint and VS Code workflows to the max
+- Experimenting with agentic AI (Ollama, tgpt, custom shell functions)
 
 ---
 
 ## 🌐 Connect with Me
 
-- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-kapilsthakare.com-blue)](https://kapilsthakare.com)
-- **Email:** [![Email](https://img.shields.io/badge/Email-kapil.thakare%40primesandzooms.com-red)](mailto:kapilsthakare@primesandzooms.com)
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-kapil--thakare-0077B5)](https://linkedin.com/in/kapil-thakare)
+- **Portfolio:** [kapilsthakare.com](https://kapilsthakare.com)
+- **Email:** [kapil.thakare@primesandzooms.com](mailto:kapil.thakare@primesandzooms.com)
+- **LinkedIn:** [kapil-thakare](https://linkedin.com/in/kapil-thakare)
 
 ---
 
-## 🏢 Professional Experience
+## 🏢 Experience Highlights
 
 ### Primes & Zooms
 **Manager - Sales and Marketing**  
-*January 2017 - Present (8 years 5 months)*
+_Jan 2017 - Present_
 
 ### Knowledge Planet UAE
 **Branch Manager**  
-*May 2016 - January 2017 (9 months)*  
+_May 2016 - Jan 2017_  
 **Operations Executive**  
-*January 2015 - May 2016 (1 year 5 months)*
+_Jan 2015 - May 2016_
 
 ### Shutter Up Photography
 **Lead Photographer**  
-*January 2014 - January 2015 (1 year 1 month)*
+_Jan 2014 - Jan 2015_
 
 ### Shutter School
 **Administrator**  
-*October 2013 - October 2014 (1 year 1 month)*
+_Oct 2013 - Oct 2014_
 
 ### Primes & Zooms (Earlier Role)
 **Manager**  
-*September 2013 - September 2014 (1 year 1 month)*  
+_Sep 2013 - Sep 2014_  
 **Photographer**  
-*January 2011 - May 2014 (3 years 5 months)*
+_Jan 2011 - May 2014_
 
 ### Robotics for Next Generation
 **Zonal Head**  
-*2011 - 2013 (2 years)*
+_2011 - 2013_
 
 ---
 
 ## 🎓 Education
 
-- **University of Pune**  
-  Bachelors (2008 - 2012)
-- **Delta Junior College**  
-  HSC (2006 - 2008)
-- **St. Aloysius, Yavatmal**  
-  SSC (1996 - 2006)
+- **University of Pune** — Bachelors (2008-2012)
+- **Delta Junior College** — HSC (2006-2008)
+- **St. Aloysius, Yavatmal** — SSC (1996-2006)
 
 ---
 
@@ -140,3 +160,10 @@ I welcome contributions to my open-source projects!
 - English (Full Professional)
 
 ---
+
+## 🤓 Just for Fun
+
+![Terminal Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+> “Keep calm and automate everything.  
+> Also, ask me about agentic AI, VS Code hacks, or my `.bashrc` wizardry!”
